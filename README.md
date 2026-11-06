@@ -1,5 +1,9 @@
-Hi,I am swathi
+Hi,I am Swathi
+
 MCA Fresher 
+
 Looking for|IT Support/QA/Data Analyst|
-Excel,SQL,PYTHON,HTML
+
+Skill:Excel,SQL,Python,HTML
+
 MY Resume is in this repo
