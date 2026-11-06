@@ -1,0 +1,19 @@
+AI Smart Glasses - MCA Project
+
+About This Project:
+AI Smart Glasses is a smart device designed to help blind and normal people in daily life. It uses a camera and AI to see the surroundings and speak the information through voice.
+
+Features:
+1. Face Recognition - Identifies a person and tells their name
+2. Text Reading - Reads text from boards and books and speaks it aloud
+3. Object Detection - Detects objects in front and gives voice alert
+4. Voice Assistant - Answers questions through voice commands
+
+Technologies Used:
+Python, HTML, AI Basics, Excel for Data Collection
+
+What I Learned:
+How AI camera works, How object detection works, How voice output works
+
+Future Scope:
+To test this with a real camera module and make a working prototype
